@@ -37,7 +37,7 @@ const createFooter = () => {
 
 
             <li class="footer-column">
-                <h3>FOLLOW US</h3>
+                <h3>FOLLOW ME</h3>
                 <ul class="social-icons">
                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
