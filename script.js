@@ -22,7 +22,7 @@ const createHeader = () => {
             <div class="right-nav">
                 <a><i class="fas fa-search"></i></a>
                 <a><i class="fas fa-user"></i></a>
-                <a><i class="fas fa-shopping-bag"></i></a>
+                
             </div>
         </div>
     `;
